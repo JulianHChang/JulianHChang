@@ -15,13 +15,20 @@
 - **Microsoft** Certified Power BI Data Analyst [link: https://bit.ly/jhc-M-cert]
 
 ---
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+| Expertise                          | Tools & Technologies                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cloud & Data Platforms |                                                                                                                      |
+| Programming Languages      |                                                          |
+| Data Engineering & Orchestration              |                                                                                                                      |
+| Data Science              |                                                                                                                      |
+| Data Visualization & Business Intelligence (BI)                |                                                                                                                      |
+| Development Tools & IDE                |                                                                                                                      |
+| Traditional Analytics Tools                |                                                                                                                      |
+| Data Modeling & Architecture                |                                                                                                                      |
+| Core Practices & Methodologies      |     
+| Forecasting,       |     
 ---
 
 ---
